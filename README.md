@@ -17,7 +17,7 @@ China is a success story in terms of forest area increase, with a gain of 527,22
 ## B. LARGEST CONCERNS
 The countries with the largest decrease in forest area from 1990 to 2016 by square kilometer were Brazil, Indonesia, Myanmar, Nigeria, and Tanzania. When analyzing the data by percent decrease, Togo, Nigeria, Uganda, Mauritania, and Honduras were the top 5 countries. Nigeria was the only country to rank in the top 5 for both measures, indicating a significant opportunity to stop the decline and lead remedial efforts.
 
-# 4. RECOMMENDATIONS
+## RECOMMENDATIONS
 
 ● What have I learned from the World Bank data?
 ● Which countries should we focus on over others?
